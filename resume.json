@@ -1,0 +1,112 @@
+{
+	"basics": {
+		"email": "sayyedwasim251@gmail.com",
+		"name": "wasim sayyed",
+		"phone": "Please mail me",
+		"summary": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodoconsequat.Duis aute irure dolor in reprehenderit in voluptate velit essecillum dolore eu fugiat nulla pariatur.Excepteur sint occaecat cupidatat nonproident,sunt in culpa qui officia deserunt mollit anim id est laborum.",
+		"location": {
+			"city": "Mumbai",
+			" pin code": "400037",
+			"region": "Mumbai Metropolition Region(MMR)",
+			"state": "Maharashtra",
+			"country": " India",
+			"countryCode": "IN"
+		}
+	},
+	"education": {
+		"institution": "Anjuman islam kalsekar techical campus",
+		"course": "BE computer",
+		"StartDate": "2016",
+		"gpa": "7.2",
+		"endDate": "2020"
+
+	},
+
+	"skills": {
+		"languages": [{
+
+				"name": "java",
+				"level": "amateur",
+				"ratings": "5"
+
+			},
+			{
+				"name": "C",
+				"level": "intermediate",
+				"ratings": "8"
+			},
+			{
+				"name": "python",
+				"level": "amateur",
+				"ratings": "5"
+			}
+		],
+		"OS": [{
+				"name": "Windows",
+				"level": "amateur",
+				"ratings": "7"
+			},
+			{
+				"name": "Linux",
+				"level": " amateur",
+				"ratings": "7"
+
+			}
+		],
+		"concepts": [{
+
+				"name": "DS",
+				"level": "amateur",
+				"ratings": "5"
+			},
+			{
+
+				"name": "OOPM",
+				"level": "amateur",
+				"ratings": "8"
+
+			}
+		],
+		"tools": [{
+
+				"name": "Ms word",
+				"level": "amateur",
+				"ratings": "9"
+			},
+			{
+
+				"name": "photoshop",
+				"level": "amateur",
+				"ratings": "6"
+
+			}
+		]
+	},
+	"languages": [{
+			"language": "English",
+			"fluency": "Professional working"
+		},
+		{
+			"language": "Hindi",
+			"fluency": "Professional and national language"
+		},
+		{
+			"language": "Urdu",
+			"fluency": "Mother tongue"
+		},
+		{
+			"language": "Marathi",
+			"fluency": "Elementary"
+		}
+	],
+	"interests": [{
+			"name": "Football"
+		},
+		{
+			"name": "Cricket"
+		},
+		{
+			"name": "machine learning"
+		}
+]
+}
