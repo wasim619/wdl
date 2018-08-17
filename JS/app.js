@@ -27,13 +27,7 @@ $(function(){
 
    });
 
-  $('#semail').on('blur',function(){
-    if(!/^([a-zA-Z0-9_\-\.]+)@([a-zA-Z0-9_\-\.]+)\.([a-zA-Z]{2,5}) /.test(this.value)){
-      alert("email invalid");
-      this.value="";
-      $(this).focus();
-    }
-  });
+  
 });
 
 
